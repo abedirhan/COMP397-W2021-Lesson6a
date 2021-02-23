@@ -675,7 +675,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Pause
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 0}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1861,7 +1861,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Health
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 0}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2452,7 +2452,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3529459135566544161, guid: 99b60b7e08933ac49ba7b1762e6a4df0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.567
+      value: 0.21
       objectReference: {fileID: 0}
     - target: {fileID: 3529459135566544161, guid: 99b60b7e08933ac49ba7b1762e6a4df0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2486,10 +2486,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crypto
       objectReference: {fileID: 0}
-    - target: {fileID: 7357479599423268699, guid: 99b60b7e08933ac49ba7b1762e6a4df0, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 5f3ed424bc7a6894f9740ca3a62d2e42, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 99b60b7e08933ac49ba7b1762e6a4df0, type: 3}
 --- !u!1001 &8639240809894782913
